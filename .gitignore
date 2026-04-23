@@ -19,3 +19,6 @@ __pycache__/
 
 # Debug scriptleri
 debug_*.py
+
+# Ekran görüntüleri
+*.png
