@@ -1,0 +1,21 @@
+# MediaPipe model dosyaları (büyük dosyalar, indirme scriptiyle alınır)
+*.task
+
+# Geçici ses dosyaları
+*.mp3
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# Debug scriptleri
+debug_*.py
